@@ -1,0 +1,4 @@
+{
+    "endpoint":"http://localhost/API",
+    "tileset":"http://localhost/MapTiles/{z}/{x}/{y}/tile.png"
+}
