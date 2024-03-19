@@ -1,4 +1,4 @@
 {
     "endpoint":"http://localhost:5505/API",
-    "tileset":"http://localhost:5505/MapTiles/{z}/{x}/{y}/tile.png"
+    "tileset":"https://tile.openstreetmap.org/{z}/{x}/{y}.png"
 }
