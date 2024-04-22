@@ -3,6 +3,7 @@
     "endpoint_note":"WARNING: 'endpoint' will be phased out in the next version",
     "tileset":"https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     "pclocal":"http://127.0.0.1:5505/API",
+    "laplocal":"http://192.168.137.1:5505/API",
     "netlocal":"http://192.168.86.42:5505/API",
     "weblocal":""
 }
