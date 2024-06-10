@@ -1,7 +1,7 @@
 {
     "endpoints": [
         {"name":"Release Server","url":"not configured","status":"disabled"},
-        {"name":"Development Server","url":"http://opentransit.duckdns.org/API","status":"loading"},
+        {"name":"Development Server","url":"http://www.opentransit.au/API","status":"loading"},
         {"name":"[DEV] Localhost","url":"http://127.0.0.1:5505/API","status":"loading"},
         {"name":"[DEV] Laptop Local","url":"http://192.168.137.1:5505/API","status":"loading"},
         {"name":"[DEV] PC Local","url":"http://192.168.86.42:5505/API","status":"loading"}
