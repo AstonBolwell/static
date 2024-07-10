@@ -1,7 +1,8 @@
 {
     "endpoints": [
         {"name":"Release Server","url":"not configured","status":"disabled"},
-        {"name":"Development Server","url":"https://api.opentransit.au","status":"loading"}
+        {"name":"Development Server","url":"https://api.opentransit.au","status":"loading"},
+{"name":"Localhost Development","url":"http://127.0.0.1:5510","status":"loading"}
     ] ,
     "tileset":"https://tile.openstreetmap.org/{z}/{x}/{y}.png"
 }
